@@ -1,91 +1,142 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Youri Zwetsloot's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Youri Zwetsloot
+
+<br>
+
+<span><i class="fas fa-map-marker"></i> Van Hasseltlaan 171, Delft, 2625HK, Netherlands<br></span><span><i class="fas fa-envelope"></i><a href="mailto:yourizwetsloot@yahoo.com"> yourizwetsloot@yahoo.com</a></span><br><span><i class="fas fa-phone"></i><a href="tel:0630028035"> +31630028035 </a></span>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://github.com/yzwetsloot"><i class="fab fa-github"></i> yzwetsloot</a><br>
+  <a href="https://linkedin.com/in/youri-zwetsloot-992b72176/"><i class="fab fa-linkedin-in"></i> yourizwetsloot</a>
 </div>
 
+## Profile
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Highly-motivated and competitive student with a passion for finance, entrepreneurship and anything computer science-related. Well-versed in data-oriented programming, primarily in Python and JavaScript, and low-level programming in C++.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2022`
+**BSc, Computer Science and Engineering**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- _Delft University of Technology_
+- Variant courses: <em class="emph">Big Data Processing</em>, <em class="emph">Data Mining</em> and <em class="emph">Computational Intelligence</em>
+- Minor: <em class="emph">Quantum Science and Computation</em>
 
-- Sizar
+`2012 - 2018`
+**Bilingual pre-university education**<br>
+_Cals College Nieuwegein_<br>
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Primary focus: mathematics, physics
+- Supplementary courses: Latin, Greek
+- Variant course: <em class="emph">Advanced Mathematics</em>
+- International Baccalaureate Language A: language and literature
 
-- Fellow
+## Experience
 
+`Jan 2020 - now`
+**Python developer / Cloud consultant**<br>
+_inQdo Cloud_<br>
+&#9658; Design AWS cloud solutions using services like AWS Lambda, DynamoDB and API Gateway.<br>
+&#9658; Work with clients (like <em class="emph">Berlinger</em> and <em class="emph">Provincie Noord-Holland</em>) to incorporate desired features.<br>
+&#9658; Use declarative languages like Cloudformation and Terraform to deploy AWS cloud applications.<br>
+&#9658; Use Python and JavaScript to carry out (data-oriented) workloads on AWS.<br>
 
+`Aug 2018 - now`
+**Owner**<br>
+_Megabricks_<br>
+&#9658; Megabricks is an online re-seller in gaming products, consumer electronics and more.<br>
+&#9658; Develop and maintain highly-concurrent, reliable and performant web scraping applications and manage large amounts of data downstream efficiently.<br>
+&#9658; Optimize procurement process by extracting valuable information and building applications for analytics.<br>
+&#9658; Shipments and customer contact.
 
-## Awards
+## Volunteer experience
 
-`2012`
-President, *Royal Society*, London, UK
+`Oct 2020 - now`
+**Promotion**<br>
+_D.S.J.V. Groover, ClassCIE_<br>
+The ClassCIE or masterclass committee of jazz student association D.S.J.V. Groover organizes educational events.<br> 
+Primarily in charge of promotion: searching for and maintaining contact with interesting (jazz) artists and/or their agents.<br>
 
-Associate, *French Academy of Science*, Paris, France
+`Sep 2020 - now`
+**Web developer**<br>
+_D.S.J.V. Groover, WebCIE_<br>
+The WebCIE or Web committee is in charge of maintaining and developing the primary website for jazz student association D.S.J.V. Groover and its corresponding subdomains.<br>
+Work in a team of web developers and designers to work towards this cause using languages like PHP and JavaScript.<br>
 
+`May 2018 - Jun 2018`
+**Yearbook commmittee member**<br>
+_Cals College Nieuwegein_<br>
 
+`Feb 2015 - Aug 2015`
+**Homework assistance**<br>
+_MoVactor_<br>
 
-## Publications
+## Technical experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Projects
 
-### Journals
+`2019 - now`
+**MultiScrape**<br>
+Web scraper framework which allows for easy deployment of new crawlers for various online retailers. It takes care of the common tasks like database interaction, handling proxies, providing notifications and request concurrency. Its object-oriented design allows for the implementation of retailer-specific behaviour.<br>
+Currently in use to maintain and develop the various web scrapers at <em class="emph">Megabricks</em>.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`May 2020 - Jul 2020`
+**Extending support for cryptocurrencies in a<br> blockchain-based decentralized exchange**<br>
+Extend support for cryptocurrencies like Iota, Monero and Ethereum in a student team for the decentralized exchange part of the TU Delft-backed <em class="emph">Tribler</em> project.<br>
+Link to project: <a href="https://github.com/Tribler/anydex-core/pull/44"><i class="fab fa-github"></i> anydex-core</a><br>
 
-`1669`
-Lectiones opticæ.
+### Programming languages
 
-etc. etc. etc.
+**Python**<br>
+Self-taught in this language to initially develop web scraping applications at <em class="emph">Megabricks</em> using powerful tools like <em class="emph">Numpy</em> and <em class="emph">Pandas</em>. Furthermore, this is my language of choice in developing serverless applications and utility scripts at <em class="emph">inQdo</em>. Lastly, I frequently make use of Python to develop and test trading strategies.<br>
 
-### Patents
+<p class="with-note"><strong>C++</strong></p>
+Language of choice when performance and efficiency are important. For example, for hobby projects on my Raspberry Pi or for the development of a ray tracer in a team of 5 students at TU Delft (<a href="https://github.com/jonay2000/raytracing-project"><i class="fab fa-github"></i> Ray tracing project</a>).
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<p class="with-note"><strong>JavaScript</strong></p>
+I use JavaScript to visualize data effectively in web applications, often using React as frontend framework and Node and MongoDB for the backend and database (MERN stack). Its fantastic support for async execution lends it well for use in serverless functions.<br>
+<!-- <p class="note">&nbsp;Graaf is a high-performance web scraper for creating and visualizing a&nbsp;serializable graph of the Internet</p> -->
 
+Basic knowledge of SQL, Golang, Java, Kotlin and PHP
 
-## Occupation
+### Tools
 
-`1600`
-__Royal Mint__, London
+Microsoft Excel, Jupyter Notebook, Amazon Web Services, Serverless, Docker, Pandas, Numpy, PostgreSQL, MongoDB, React and Node.js
 
-- Warden
-- Minted coins
+## Other skils
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Human languages
 
+Dutch: Native speaker<br>
+English: Native speaker<br>
+German: B2<br>
 
+## Extra activities
 
-<!-- ### Footer
+**Algorithmic trading**<br>
+Trying out custom trading strategies using Python, Golang and C++, or translating current manual strategies to automated versions. These strategies are then subjected to thorough backtesting prior to deployment.<br>
 
-Last updated: May 2013 -->
+**Debate and discussion**<br>
+Participate in weekly discusisons and debates about philosophy, technology and society at student association VOX in Delft. 
 
+**Online re-sell and repair**<br>
+Re-selling and repairing computer parts and phones often requires making decisions fast and under pressure, while also involving careful touch and high concentration while repairing delicate hardware.<br>
 
+## Interests
+
+<ul class="interests">
+  <li>Chess</li>
+  <li>Stock trading</li>
+  <li>Playing the piano</li>
+  <li>Running</li>
+  <li>Jazz</li>
+</ul>
+
+```
+
+```
