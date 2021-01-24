@@ -117,13 +117,10 @@ German: B2<br>
 ## Extra activities
 
 **Algorithmic trading**<br>
-Trying out custom trading strategies using Python, Golang and C++, or translating current manual strategies to automated versions. These strategies are then subjected to thorough backtesting prior to deployment.<br>
+Trying out and backtesting custom trading strategies using Python, Golang and C++.<br>
 
 **Debate and discussion**<br>
 Participate in weekly discusisons and debates about philosophy, technology and society at student association VOX in Delft. 
-
-**Online re-sell and repair**<br>
-Re-selling and repairing computer parts and phones often requires making decisions fast and under pressure, while also involving careful touch and high concentration while repairing delicate hardware.<br>
 
 ## Interests
 
