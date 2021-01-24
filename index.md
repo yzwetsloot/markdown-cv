@@ -5,14 +5,10 @@ title: Youri Zwetsloot's CV
 
 # Youri Zwetsloot
 
-<br>
+<!-- <br> -->
 
-<span><i class="fas fa-map-marker"></i> Van Hasseltlaan 171, Delft, 2625HK, Netherlands<br></span><span><i class="fas fa-envelope"></i><a href="mailto:yourizwetsloot@yahoo.com"> yourizwetsloot@yahoo.com</a></span><br><span><i class="fas fa-phone"></i><a href="tel:0630028035"> +31630028035 </a></span>
+<span style="float: right;"><i class="far fa-calendar-alt"></i> 12-04-2000<br></span>
 
-<div id="webaddress">
-  <a href="https://github.com/yzwetsloot"><i class="fab fa-github"></i> yzwetsloot</a><br>
-  <a href="https://linkedin.com/in/youri-zwetsloot-992b72176/"><i class="fab fa-linkedin-in"></i> yourizwetsloot</a>
-</div>
 
 ## Profile
 
@@ -90,16 +86,7 @@ Link to project: <a href="https://github.com/Tribler/anydex-core/pull/44"><i cla
 
 ### Programming languages
 
-**Python**<br>
-Self-taught in this language to initially develop web scraping applications at <em class="emph">Megabricks</em> using powerful tools like <em class="emph">Numpy</em> and <em class="emph">Pandas</em>. Furthermore, this is my language of choice in developing serverless applications and utility scripts at <em class="emph">inQdo</em>. Lastly, I frequently make use of Python to develop and test trading strategies.<br>
-
-<p class="with-note"><strong>C++</strong></p>
-Language of choice when performance and efficiency are important. For example, for hobby projects on my Raspberry Pi or for the development of a ray tracer in a team of 5 students at TU Delft (<a href="https://github.com/jonay2000/raytracing-project"><i class="fab fa-github"></i> Ray tracing project</a>).
-
-<p class="with-note"><strong>JavaScript</strong></p>
-I use JavaScript to visualize data effectively in web applications, often using React as frontend framework and Node and MongoDB for the backend and database (MERN stack). Its fantastic support for async execution lends it well for use in serverless functions.<br>
-<!-- <p class="note">&nbsp;Graaf is a high-performance web scraper for creating and visualizing a&nbsp;serializable graph of the Internet</p> -->
-
+Primary languages: Python, JavaScript and C++<br>
 Basic knowledge of SQL, Golang, Java, Kotlin and PHP
 
 ### Tools
@@ -117,21 +104,17 @@ German: B2<br>
 ## Extra activities
 
 **Algorithmic trading**<br>
-Trying out custom trading strategies using Python, Golang and C++, or translating current manual strategies to automated versions. These strategies are then subjected to thorough backtesting prior to deployment.<br>
+Trying out and backtesting custom trading strategies using Python, Golang and C++.<br>
 
 **Debate and discussion**<br>
 Participate in weekly discusisons and debates about philosophy, technology and society at student association VOX in Delft. 
-
-**Online re-sell and repair**<br>
-Re-selling and repairing computer parts and phones often requires making decisions fast and under pressure, while also involving careful touch and high concentration while repairing delicate hardware.<br>
 
 ## Interests
 
 <ul class="interests">
   <li>Chess</li>
-  <li>Stock trading</li>
   <li>Playing the piano</li>
-  <li>Running</li>
+  <li>Stock trading</li>
   <li>Jazz</li>
 </ul>
 
