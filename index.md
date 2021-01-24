@@ -34,7 +34,6 @@ _Cals College Nieuwegein_<br>
 - Primary focus: mathematics, physics
 - Supplementary courses: Latin, Greek
 - Variant course: <em class="emph">Advanced Mathematics</em>
-- International Baccalaureate Language A: language and literature
 
 ## Experience
 
@@ -59,14 +58,13 @@ _Megabricks_<br>
 `Oct 2020 - now`
 **Promotion**<br>
 _D.S.J.V. Groover, ClassCIE_<br>
-The ClassCIE or masterclass committee of jazz student association D.S.J.V. Groover organizes educational events.<br> 
+Part of the masterclass committee at jazz student association D.S.J.V. Groover which organizes educational events.<br>
 Primarily in charge of promotion: searching for and maintaining contact with interesting (jazz) artists and/or their agents.<br>
 
 `Sep 2020 - now`
 **Web developer**<br>
 _D.S.J.V. Groover, WebCIE_<br>
-The WebCIE or Web committee is in charge of maintaining and developing the primary website for jazz student association D.S.J.V. Groover and its corresponding subdomains.<br>
-Work in a team of web developers and designers to work towards this cause using languages like PHP and JavaScript.<br>
+Work in a team of web developers and designers to maintain and develop the primary website and its subdomains for D.S.J.V. Groover using languages like PHP and JavaScript.
 
 `May 2018 - Jun 2018`
 **Yearbook commmittee member**<br>
