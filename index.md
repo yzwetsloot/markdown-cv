@@ -7,8 +7,19 @@ title: Youri Zwetsloot's CV
 
 <!-- <br> -->
 
-<span style="float: right;"><i class="far fa-calendar-alt"></i> 12-04-2000<br></span>
 
+<br>
+
+
+<p><span><i class="far fa-calendar-alt"></i> 12-04-2000<br></span><span><i class="fas fa-map-marker"></i> Van Hasseltlaan 171, Delft, 2625HK, Netherlands<br></span></p>
+<!-- <span><i class="fas fa-envelope"></i><a href="mailto:yourizwetsloot@yahoo.com"> yourizwetsloot@yahoo.com</a></span><br><span><i class="fas fa-phone"></i><a href="tel:0630028035"> +31630028035 </a></span></p> -->
+
+<div id="webaddress">
+  <a href="mailto:yourizwetsloot@yahoo.com"><i class="fas fa-envelope"></i> yourizwetsloot@yahoo.com</a><br>
+  <a href="tel:0630028035"><i class="fas fa-phone"></i> +31630028035 </a><br>
+  <a href="https://github.com/yzwetsloot"><i class="fab fa-github"></i> yzwetsloot</a><br>
+  <a href="https://linkedin.com/in/youri-zwetsloot-992b72176/"><i class="fab fa-linkedin-in"></i> yourizwetsloot</a>
+</div>
 
 ## Profile
 
@@ -24,14 +35,12 @@ Highly-motivated and competitive student with a passion for finance, entrepreneu
 - Minor: <em class="emph">Quantum Science and Computation</em>
 
 `2012 - 2018`
-**Bilingual pre-university education**<br>
+**Bilingual Gymnasium**<br>
 _Cals College Nieuwegein_<br>
 
-- Primary focus: mathematics, physics
-- Supplementary courses: Latin, Greek
 - Variant course: <em class="emph">Advanced Mathematics</em>
 
-## Experience
+## Work experience
 
 `Jan 2020 - now`
 **Python developer / Cloud consultant**<br>
@@ -42,12 +51,37 @@ _inQdo Cloud_<br>
 &#9658; Use Python and JavaScript to carry out (data-oriented) workloads on AWS.<br>
 
 `Aug 2018 - now`
-**Owner**<br>
+**Owner / Software developer**<br>
 _Megabricks_<br>
 &#9658; Megabricks is an online re-seller in gaming products, consumer electronics and more.<br>
 &#9658; Develop and maintain highly-concurrent, reliable and performant web scraping applications and manage large amounts of data downstream efficiently.<br>
 &#9658; Optimize procurement process by extracting valuable information and building applications for analytics.<br>
-&#9658; Shipments and customer contact.
+&#9658; Shipments, procurement and customer contact.
+
+`July 2015 - Sept 2018`
+**Stock clerk**<br>
+_Albert Heijn_
+
+## Technical experience
+
+### Programming languages
+<p class="reduced-margin">Primary languages: Python, JavaScript and C++<br>
+Basic knowledge of SQL, Golang, Java, Kotlin and PHP</p>
+
+### Tools
+<p class="reduced-margin">Microsoft Excel, Jupyter Notebook, Amazon Web Services, Serverless, Docker, Pandas, Numpy, PostgreSQL, MongoDB, React and Node.js</p>
+
+### Projects
+
+`2019 - now`
+**MultiScrape**<br>
+Web scraper framework which allows for easy deployment of new crawlers for various online retailers. It takes care of the common tasks like database interaction, handling proxies, providing notifications and request concurrency. Its object-oriented design allows for the implementation of retailer-specific behaviour.<br>
+Currently in use to maintain and develop the various web scrapers at <em class="emph">Megabricks</em>.
+
+`May 2020 - Jul 2020`
+**Extending support for cryptocurrencies in a blockchain-based decentralized exchange**<br>
+Extend support for cryptocurrencies like Iota, Monero and Ethereum in a student team for the decentralized exchange part of the TU Delft-backed <em class="emph">Tribler</em> project.<br>
+Link to project: <a href="https://github.com/Tribler/anydex-core/pull/44"><i class="fab fa-github"></i> anydex-core</a><br>
 
 ## Volunteer experience
 
@@ -70,30 +104,7 @@ _Cals College Nieuwegein_<br>
 **Homework assistance**<br>
 _MoVactor_<br>
 
-## Technical experience
-
-### Projects
-
-`2019 - now`
-**MultiScrape**<br>
-Web scraper framework which allows for easy deployment of new crawlers for various online retailers. It takes care of the common tasks like database interaction, handling proxies, providing notifications and request concurrency. Its object-oriented design allows for the implementation of retailer-specific behaviour.<br>
-Currently in use to maintain and develop the various web scrapers at <em class="emph">Megabricks</em>.
-
-`May 2020 - Jul 2020`
-**Extending support for cryptocurrencies in a<br> blockchain-based decentralized exchange**<br>
-Extend support for cryptocurrencies like Iota, Monero and Ethereum in a student team for the decentralized exchange part of the TU Delft-backed <em class="emph">Tribler</em> project.<br>
-Link to project: <a href="https://github.com/Tribler/anydex-core/pull/44"><i class="fab fa-github"></i> anydex-core</a><br>
-
-### Programming languages
-
-Primary languages: Python, JavaScript and C++<br>
-Basic knowledge of SQL, Golang, Java, Kotlin and PHP
-
-### Tools
-
-Microsoft Excel, Jupyter Notebook, Amazon Web Services, Serverless, Docker, Pandas, Numpy, PostgreSQL, MongoDB, React and Node.js
-
-## Other skils
+## Skils
 
 ### Human languages
 
