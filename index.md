@@ -78,10 +78,17 @@ Basic knowledge of SQL, Golang, Java, Kotlin and PHP</p>
 Web scraper framework which allows for easy deployment of new crawlers for various online retailers. It takes care of the common tasks like database interaction, handling proxies, providing notifications and request concurrency. Its object-oriented design allows for the implementation of retailer-specific behaviour.<br>
 Currently in use to maintain and develop the various web scrapers at <em class="emph">Megabricks</em>.
 
-`May 2020 - Jul 2020`
+`Mar 2021`
+**MicroBricks**<br>
+MicroBricks is a PERN-stack (PostgreSQL, Express, React and Node) web app for closed-source web scraping framework MultiScrape.
+Its search feature allows users to look through product data and history and visualize aggregated data using Chart.js charts.<br>
+It can be deployed to AWS Fargate using an AWS CDK template.<br>
+Link to project: <a href="https://github.com/yzwetsloot/microbricks"><i class="fab fa-github"></i> MicroBricks</a><br>
+
+<!-- `May 2020 - Jul 2020`
 **Extending support for cryptocurrencies in a blockchain-based decentralized exchange**<br>
 Extend support for cryptocurrencies like Iota, Monero and Ethereum in a student team for the decentralized exchange part of the TU Delft-backed <em class="emph">Tribler</em> project.<br>
-Link to project: <a href="https://github.com/Tribler/anydex-core/pull/44"><i class="fab fa-github"></i> anydex-core</a><br>
+Link to project: <a href="https://github.com/Tribler/anydex-core/pull/44"><i class="fab fa-github"></i> anydex-core</a><br> -->
 
 ## Volunteer experience
 
