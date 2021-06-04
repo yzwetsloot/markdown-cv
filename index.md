@@ -7,9 +7,7 @@ title: Youri Zwetsloot's CV
 
 <!-- <br> -->
 
-
 <br>
-
 
 <p><span><i class="far fa-calendar-alt"></i> 12-04-2000<br></span><span><i class="fas fa-map-marker"></i> Van Hasseltlaan 171, Delft, 2625HK, Netherlands<br></span></p>
 <!-- <span><i class="fas fa-envelope"></i><a href="mailto:yourizwetsloot@yahoo.com"> yourizwetsloot@yahoo.com</a></span><br><span><i class="fas fa-phone"></i><a href="tel:0630028035"> +31630028035 </a></span></p> -->
@@ -42,6 +40,13 @@ _Cals College Nieuwegein_<br>
 
 ## Work experience
 
+`April 2021 - now`
+**Embedded software engineer**<br>
+_Lunar Zebro_<br>
+&#9658; Develop vision software in C++ capable of detecting targets using OpenCV and ZBar.<br>
+&#9658; Integrate LIDAR, camera and ultra-sensor software functionality.<br>
+&#9658; Provide remote support during IGLUNA2021 field campaign in Lucerne, Switzerland.<br>
+
 `Jan 2020 - now`
 **Python developer / Cloud consultant**<br>
 _inQdo Cloud_<br>
@@ -65,11 +70,13 @@ _Albert Heijn_
 ## Technical experience
 
 ### Programming languages
+
 <p class="reduced-margin">Primary languages: Python, JavaScript and C++<br>
 Basic knowledge of SQL, Golang, Java, Kotlin and PHP</p>
 
 ### Tools
-<p class="reduced-margin">Microsoft Excel, Jupyter Notebook, Amazon Web Services, Serverless, Docker, Pandas, Numpy, PostgreSQL, MongoDB, React and Node.js</p>
+
+<p class="reduced-margin">Microsoft Excel, Jupyter Notebook, Amazon Web Services, Serverless, Docker, Pandas, Numpy, PostgreSQL, MongoDB, Puppeteer, React and Node.js</p>
 
 ### Projects
 
@@ -125,7 +132,7 @@ German: B2<br>
 Trying out and backtesting custom trading strategies using Python, Golang and C++.<br>
 
 **Debate and discussion**<br>
-Participate in weekly discusisons and debates about philosophy, technology and society at student association VOX in Delft. 
+Participate in weekly discusisons and debates about philosophy, technology and society at student association VOX in Delft.
 
 ## Interests
 
