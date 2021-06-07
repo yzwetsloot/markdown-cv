@@ -43,9 +43,10 @@ _Cals College Nieuwegein_<br>
 `April 2021 - now`
 **Embedded software engineer**<br>
 _Lunar Zebro_<br>
-&#9658; Develop vision software in C++ capable of detecting targets using OpenCV and ZBar.<br>
+&#9658; Lunar Zebro is world's smallest and lightest rover yet, built by TU Delft students to be sent to the Moon.<br>
+&#9658; Develop vision software in C++ capable of detecting targets using OpenCV.<br>
 &#9658; Integrate LIDAR, camera and ultra-sensor software functionality.<br>
-&#9658; Provide remote support during IGLUNA2021 field campaign in Lucerne, Switzerland.<br>
+&#9658; Provide support during IGLUNA2021 field campaign in Lucerne.<br>
 
 `Jan 2020 - now`
 **Python developer / Cloud consultant**<br>
